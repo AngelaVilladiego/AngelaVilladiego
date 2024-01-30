@@ -1,4 +1,3 @@
-<h1 align="center">Welcome, I'm Angie! 👋</h1>
 <h3 align="center">I write beautiful code for beautiful designs.</h3>
 
 <p align="center">👉 You should check out <a href="https://github.com/AngelaVilladiego/memomi" target="_blank">Memomi</a>, my last hackathon project which <b>won 3rd place in Cohere's prize category!</b>👈</p>
@@ -10,8 +9,9 @@
 </p>
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/AngelaVilladiego/github-stats/2e03d26a3d414a2694bf3f04b02fcc424e8023fa/generated/overview.svg" alt="Angie's Github Stats">
- <img src="https://raw.githubusercontent.com/AngelaVilladiego/github-stats/2e03d26a3d414a2694bf3f04b02fcc424e8023fa/generated/languages.svg" alt="Angie's Top Languages">
+
+ <img src="https://raw.githubusercontent.com/AngelaVilladiego/github-stats/c954431fc721889d536816f4760388a1c87c2ebe/generated/overview.svg" alt="Angie's Github Stats">
+ <img src="https://raw.githubusercontent.com/AngelaVilladiego/github-stats/c954431fc721889d536816f4760388a1c87c2ebe/generated/languages.svg" alt="Angie's Top Languages">
 </div>
 <br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=angelavilladiego&label=Profile%20views&color=777799&style=for-the-badge" alt="angelavilladiego" /> </p>
