@@ -10,7 +10,7 @@
 <br>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/angela-villadiego/" target="_blank"><img src="https://img.shields.io/badge/AngelaVilladiego-blue?style=for-the-badge&logo=linkedin&logoColor=333333&color=CCCCFF&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fangela-villadiego%2F" alt="linkedin"></a>
-  <a href="https://www.linkedin.com/in/angela-villadiego/" target="_blank"><img alt="leetcode" src="https://img.shields.io/badge/AngelaVilladiego-blue?style=for-the-badge&logo=leetcode&logoColor=333333&color=CCCCFF&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fangela-villadiego%2F"></a>
+  <a href="https://leetcode.com/AngelaVilladiego/" target="_blank"><img alt="leetcode" src="https://img.shields.io/badge/AngelaVilladiego-blue?style=for-the-badge&logo=leetcode&logoColor=333333&color=CCCCFF&link=https%3A%2F%2Fwww.leetcode.com%2Fangelavilladiego%2F"></a>
 </p>
 <br><br>
 <p align="center">
