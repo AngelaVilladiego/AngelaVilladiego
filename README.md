@@ -5,7 +5,7 @@
 
 <h3 align="center">I write beautiful code for beautiful designs.</h3>
 <p align="center">👉 You should check out <a href="https://github.com/AngelaVilladiego/memomi" target="_blank">Memomi</a>, my hackathon project which <b>won 3rd place in Cohere's prize category!</b></p>
-<p align="center">⚒️ I’m currently working on <a href="https://github.com/AngelaVilladiego/web-portfolio-v2" target="_blank">my portfolio website.</a></p>
+<p align="center">⚒️ I recently completed <a href="https://github.com/AngelaVilladiego/BoardForgeAR_HoloLens2" target="_blank">an AR project for the HoloLens 2</a></p>
 </div>
 <br>
 <p align="center"> 
